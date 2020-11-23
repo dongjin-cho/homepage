@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Louis George Cafe','Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Louis George Cafe', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -46,6 +46,7 @@ header.masthead h1 {
     padding-top: 12rem;
     padding-bottom: 12rem;
   }
+
   header.masthead h1 {
     font-size: 3rem;
   }
